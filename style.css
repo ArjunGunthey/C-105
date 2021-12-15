@@ -1,0 +1,11 @@
+body{
+    background-color: #14e3d2;
+}
+
+body:hover{
+    background-image: linear-gradient(to top right, #f75145, #80f00a, #14e3d2, #ff78e8 );
+}
+
+h3{
+    width: 800px;
+}
